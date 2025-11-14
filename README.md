@@ -43,3 +43,6 @@
 
 13) Write a java program to to demonstrate method overloading where multiple methods have the same name but different parameter lists.
    ![image alt]
+
+14) Write a java program to demonstrate stack operations using the Stack class in Java.
+    ![image alt]
