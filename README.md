@@ -26,8 +26,20 @@
    ![image alt]
 
 7) Write a java program to overload a constructor used to initialize a rectangle of length 4 and breadth 5 for using custom parameters.
+   ![image alt]
 
-8) 
+8) Write a java program to demonstrate a default constructor that initializes the car's model and year with default values.
+   ![image alt]
 
- 
 
+9) Write a java program to demonstrate a copy constructor that copies the details of one object into another.
+   ![image alt]
+
+10) Write a java program to demonstrate a parameterized constructor that sets values to object fields using parameters.
+   ![image alt]
+
+11) Write a java program to demonstrate garbage collection and the use of the finalize() method.
+   ![image alt]
+
+13) Write a java program to to demonstrate method overloading where multiple methods have the same name but different parameter lists.
+   ![image alt]
